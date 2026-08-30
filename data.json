@@ -7,7 +7,7 @@
         "answer": "OOP mainly has four concepts. Encapsulation means keeping data private and controlling how it is accessed. Inheritance lets one class reuse another class's properties and methods. Polymorphism means the same interface or method can behave differently depending on the object. Abstraction means hiding the internal implementation and exposing only what is needed.",
         "followup": "Give a backend example.",
         "followupAnswer": "A PaymentService interface with CardPayment and UpiPayment implementations demonstrates abstraction and polymorphism.",
-        "tricky": "Don't claim inheritance is always preferable to composition.",
+        "tricky": "Don't claim inheritance is always preferable to composition!",
         "speak": "I would answer this by first defining the concept, then explaining why it matters, and finally giving the production trade-off."
     },
     {
